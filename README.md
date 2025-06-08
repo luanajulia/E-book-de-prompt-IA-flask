@@ -6,7 +6,7 @@
 
 
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto EBOOK (Com o Tema: Flask) Gerado por I.A.s
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso:TONNIE - Java and AI in Europe 
@@ -64,7 +64,7 @@ Midjourney：
     &nbsp&nbsp&nbsp
     <a href="https://github.com/luanajulia">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/luana-julia">LinkedIn</a>
+    <a href="www.linkedin.com/in/luana-julia/">LinkedIn</a>
 &nbsp;|&nbsp;
     </p>
 </p>
