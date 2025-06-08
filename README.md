@@ -14,7 +14,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/luanajulia/E-book-de-prompt-IA-flask/blob/main/book/Flask%20%26%20IA.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -60,14 +60,13 @@ Midjourney：
 ## 👨‍💻 Expert
 
 <p>
-    <p>&nbsp&nbsp&nbspLuana Julia<br>
+    <p>&nbsp&nbsp&nbspLuana Julia Gomes Vieira<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/luanajulia">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/luana-julia">LinkedIn</a>
 &nbsp;|&nbsp;
-    
-&nbsp;|&nbsp;</p>
+    </p>
 </p>
 <br/><br/>
 <p>
