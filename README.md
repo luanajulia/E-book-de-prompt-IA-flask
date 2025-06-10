@@ -28,7 +28,7 @@ Copilot：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  |   create an ebook title on the topic of flask, the ebook is from the programming niche and sub-niche in python flask, the title must be creative and short and have a programming universe theme                                                  |
+|  tittle  |   create an ebook title on the topic of flask, the ebook is from the programming niche and sub-niche in python flask, the title must be creative and short and have a programming universe theme                                                  |
 | content - python | what is python? |
 | content - python | what is venv? |
 | content - python | create a detailed step-by-step guide on how to install python |
